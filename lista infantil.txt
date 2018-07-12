@@ -1,0 +1,36 @@
+﻿#EXTM3U#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/ipOPsEQ.png" group-title="Infantil",Gloob
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/87.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentarios",H2
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/85.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantil",Cartoon Network
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/116.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nick
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/60.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/105.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/104.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="Infantil",Discovery Kids
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/108.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Mr. Bean" tvg-logo="https://i.imgur.com/B1L38bd.png" group-title="Series 24H",24H Mr. Bean
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/9028.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Chaves & Chapolin" tvg-logo="https://i.imgur.com/J59Gdwi.png" group-title="Programas de TV 24H",24H Chaves & Chapolin
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/5100.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Um Maluco no Pedaco" tvg-logo="https://i.imgur.com/Ed6crQn.png" group-title="Series 24H",24H Um Maluco no Pedaco
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/6181.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Tarzan" tvg-logo="" group-title="Desenhos 24H",24H Tarzan
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/8997.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Super Choque" tvg-logo="" group-title="Desenhos 24H",24H Super Choque
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/9154.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Power Rangers 1" tvg-logo="" group-title="Desenhos 24H",24H Power Rangers 1
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/9583.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Os Trapalhoes" tvg-logo="https://i.imgur.com/tYC7gYq.png" group-title="Programas de TV 24H",24H Os Trapalhoes
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/6162.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Power Rangers 2" tvg-logo="" group-title="Desenhos 24H",24H Power Rangers 2
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/9582.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Power Rangers 3" tvg-logo="" group-title="Desenhos 24H",24H Power Rangers 3
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/9581.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Power Rangers Dino Trovao" tvg-logo="" group-title="Desenhos 24H",24H Power Rangers Dino Trovao
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/9580.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Riquinho" tvg-logo="" group-title="Desenhos 24H",24H Riquinho
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/9008.ts
